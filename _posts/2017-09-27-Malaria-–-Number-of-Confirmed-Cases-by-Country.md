@@ -10,7 +10,7 @@ Click on the link below to track Malaria cases by country over a 12 year period.
 
 Please use [this link][app-link] to connect to the interactive plot.
 
-![Malaria in numbers](/assets/MalariaIncidences.tiff)
+![Malaria in numbers](https://shivakumar121.github.io/assets/MalariaIncidences.tiff)
 
 [un-link]: http://data.un.org/
 [app-link]: http://34.212.74.158:3459/
