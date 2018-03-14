@@ -10,7 +10,7 @@ Where people are migrating says a lot about the underlying socio-economic factor
 The plot below shows how the population of US states has changed from 2010 to 2017, relative to the county's population as a whole.
 
 
-<iframe src="http://34.212.74.158:3463/" style="width: 900px; height: 600px"></iframe>
+{% include us_migrations.html %}
 
 **Interactive plot** to explore these migrations can also be accessed at [this link][app-link].
 

@@ -10,7 +10,7 @@ That said, there is a lot of disparity between different countries and technolog
 
 Explore 'Principal Component Analysis' plots below to visualize these groups by yourself.
 
-<iframe src="http://34.212.74.158:3460/" style="width: 1000px; height: 500px"></iframe>
+{% include s_and_t_countries.html %}
 
 You can also use [this link][app-link] to connect to the interactive plot.
 
