@@ -7,12 +7,12 @@ permalink: /us_migrations_in_recent_years/
 
 Where people are migrating says a lot about the underlying socio-economic factors that dominate a country. And for a country like USA, with more than 323 million people and an advanced economy that has a sweeping clout, these migrations can hold the key to understanding where the global economy is headed.  Moving across the country is a tough decision for most people. It requires a compelling reason. For most people it is a job, or the lack thereof, that provides a significant push to make a cross-country move. The ever-changing job market, and how quickly states adapt to the turning tides, are some of the main things one can interpret from these migrations.
 
-The plot below shows how the population of US states has changed from 2010 to 2017, relative to the county's population as a whole.
+The **interactive plot** below shows how the population of individual US states has changed, relative to the county's total population as a whole.
 
 
 {% include us_migrations.html %}
 
-**Interactive plot** to explore these migrations can also be accessed at [this link][app-link].
+Interactive plot to explore these migrations can also be accessed at [this link][app-link].
 
 
 Surprising revelation from this interactive plot is the quite drastic progression from low migrations in the early part of the decade to the high migrations of 2016-17. Additionally, overall people have been consistently migrating to the west and the south-east. East and north-east have seen considerable decline for a large part of the last decade.
