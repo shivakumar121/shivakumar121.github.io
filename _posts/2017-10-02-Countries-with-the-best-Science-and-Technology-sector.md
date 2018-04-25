@@ -10,7 +10,7 @@ That said, there is a lot of disparity between different countries and technolog
 
 Explore 'Principal Component Analysis' plots below to visualize these groups by yourself.
 
-![Countries and their Science](https://shivakumar121.github.io/assets/ScAndTech_PCA.png)
+{% include s_and_t_countries.html %}
 
 Please use [this link][app-link] to connect to the interactive plot.
 
