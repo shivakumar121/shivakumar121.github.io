@@ -16,4 +16,4 @@ You can also use [this link][app-link] to connect to the interactive plot.
 
 
 [un-link]: http://data.un.org/
-[app-link]: http://34.212.74.158:3459/
+[app-link]: http://54.214.138.139:3459/
