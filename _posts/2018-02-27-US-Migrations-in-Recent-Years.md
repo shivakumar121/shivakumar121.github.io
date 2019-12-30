@@ -22,5 +22,5 @@ The plot also shows vividly the boom and bust of the oil rush in **North Dakota*
 
 A lot of these highly contrasting migrations in the recent years also coincided with politically important times in the US. Players who better positioned themselves to ride the wake were benefitted, while others got left behind.
 
-[app-link]: http://54.214.138.139:3463/
+[app-link]: https://bytesizeweb.shinyapps.io/USPopApp/
 [wp-link]: https://www.washingtonpost.com/news/wonk/wp/2017/12/26/2017s-fastest-and-slowest-growing-states-are-neighbors-heres-why-their-paths-diverged/?utm_term=.6b3b55f900e1

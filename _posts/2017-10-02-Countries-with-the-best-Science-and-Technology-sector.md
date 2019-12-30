@@ -15,4 +15,4 @@ Explore the **interactive '_Principal Component Analysis_' plots** below to visu
 You can also use [this link][app-link] to connect to the interactive plot.
 
 
-[app-link]: http://54.214.138.139:3460/
+[app-link]: https://bytesizeweb.shinyapps.io/SandT_PCA/
